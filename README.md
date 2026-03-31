@@ -21,8 +21,11 @@ This project builds a computer science vision model that classifies bee images a
 | Varroa Recall    | 0.77  |
 | Varroa F1 Score  | 0.65  |
 
+### Training History
 ![Accuracy Plot](results/accuracy_plot_best.png)
 ![Loss Plot](results/loss_plot_best.png)
+
+### Evaluation
 ![Confusion Matrix](results/cm_cr_best.png)
 
 ---
