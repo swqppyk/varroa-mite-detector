@@ -32,7 +32,7 @@ This project builds a computer science vision model that classifies bee images a
 - **Output:** Binary classification (varroa / not_varroa)
 - **Framework:** TensorFlow / Keras
 
-##Dataset
+## Dataset
 
 This project uses the BeeAlarmed dataset, created by the BeeAlarmed project,
 licensed under the GNU General Public License (GPL). The dataset was obtained 
